@@ -1,0 +1,42 @@
+{
+  "account": {
+    "at": "",
+    "isBackupTermsAccepted": false
+  },
+  "filters": [
+    {
+      "b": "cascade",
+      "c": {
+        "onlineNow": false,
+        "haveNotChattedToday": false,
+        "photoOnly": false,
+        "faceOnly": false
+      }
+    },
+    {
+      "b": "explore",
+      "c": {
+        "onlineNow": false,
+        "haveNotChattedToday": false,
+        "photoOnly": false,
+        "faceOnly": false
+      }
+    }
+  ],
+  "setting": {
+    "discreetAppIcon": "Grindr",
+    "doNotDisturb": {
+      "quietHoursEnabled": false,
+      "snooze": "Desactivar repetición"
+    },
+    "inAppNotification": true,
+    "incognito": false,
+    "keepPhoneAwake": true,
+    "markRecentlyChatted": false,
+    "notificationSound": true,
+    "pin": false,
+    "showDistance": true,
+    "showMeInExploreSearches": true,
+    "unitSystem": "Imperial (EE.UU.)"
+  }
+}
