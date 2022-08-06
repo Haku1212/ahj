@@ -1,0 +1,44 @@
+{
+  "title": "nf6g2x10falo10",
+  "chatType": "individual",
+  "messages": [
+    {
+      "type": "text",
+      "content": "10 ",
+      "at": "2022-08-06 11:49:21 UTC"
+    },
+    {
+      "type": "text",
+      "content": "Bacán que tal 3sta ?",
+      "at": "2022-08-06 11:47:04 UTC"
+    },
+    {
+      "type": "text",
+      "content": "Activo mano ?",
+      "at": "2022-08-06 11:45:26 UTC"
+    },
+    {
+      "type": "text",
+      "content": "Aceptas transferencia si bro ?",
+      "at": "2022-08-06 11:46:21 UTC"
+    },
+    {
+      "type": "text",
+      "content": "Dame los datos pa transferir ",
+      "at": "2022-08-06 11:51:42 UTC"
+    },
+    {
+      "type": "text",
+      "content": "En cuanto vienes ?",
+      "at": "2022-08-06 11:50:26 UTC"
+    },
+    {
+      "type": "location",
+      "location": {
+        "lat": -33.3816671,
+        "lon": -70.6701839
+      },
+      "at": "2022-08-06 11:49:50 UTC"
+    }
+  ]
+}
